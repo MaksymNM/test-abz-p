@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Nunito';
+  font-weight: 400;
+  background-color: #f8f8f8;
+}
+
+/* input[type="radio"] {
+  border: 1px solid #00BDD3;
+}
+
+input[type="radio"]:checked { 
+  background-color: #00BDD3;
+} */
+
+
+.tippy-arrow {
+  display: none !important;
+
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
